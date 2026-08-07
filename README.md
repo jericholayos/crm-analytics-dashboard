@@ -11,7 +11,7 @@ The goal was to answer three questions:
 3. Which marketing channels are actually worth the spend?
 
 # Dashboard
-<img width="1294" height="809" alt="image" src="https://github.com/user-attachments/assets/dba1ac27-83ee-414b-bcff-8fa7e4ebca32" />
+<img width="1295" height="806" alt="image" src="https://github.com/user-attachments/assets/89865e83-52a8-4db8-aa09-cb24109d9d26" />
 <img width="1294" height="808" alt="image" src="https://github.com/user-attachments/assets/dde32678-0671-4390-a71c-bcc3097f638e" />
 <img width="1295" height="807" alt="image" src="https://github.com/user-attachments/assets/6caa7a50-b625-4c83-95a0-fe11744ddd61" />
 
