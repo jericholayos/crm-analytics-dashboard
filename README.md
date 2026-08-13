@@ -1,4 +1,4 @@
-# Sales and Campaign Analytics
+# Sales and Marketing Analytics
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-blue?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Power BI](https://img.shields.io/badge/Power%20BI-Desktop-yellow?logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 
@@ -11,9 +11,9 @@ The goal was to answer three questions:
 3. Which marketing channels are actually worth the spend?
 
 # Dashboard
-<img width="1295" height="807" alt="image" src="https://github.com/user-attachments/assets/cbb6c800-2aeb-47fb-9755-2a292552667a" />
-<img width="1294" height="808" alt="image" src="https://github.com/user-attachments/assets/dde32678-0671-4390-a71c-bcc3097f638e" />
-<img width="1295" height="807" alt="image" src="https://github.com/user-attachments/assets/6caa7a50-b625-4c83-95a0-fe11744ddd61" />
+<img width="1293" height="807" alt="image" src="https://github.com/user-attachments/assets/3b6eb2b0-4e11-41bc-a261-1dfbda9d95eb" />
+<img width="1297" height="806" alt="image" src="https://github.com/user-attachments/assets/57ea1f47-9fc3-498e-9e74-444a8209bee7" />
+
 
 
 ## Key Insights
