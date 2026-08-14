@@ -2,13 +2,12 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-blue?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Power BI](https://img.shields.io/badge/Power%20BI-Desktop-yellow?logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 
-This project simulates a real-world analytics workflow, from raw data exploration in SQL to a fully interactive multi-page Power BI report. The dataset represents a fictional e-commerce company's CRM system: customers, orders, leads, campaigns, and sales reps across 6 countries. 
+This project simulates a real-world analytics workflow, from raw data exploration in SQL to a fully interactive, 2-page Power BI report. The dataset represents a fictional e-commerce company's CRM system, covering customers, orders, leads, and marketing channels.
 
-The goal was to answer three questions:
- 
-1. Where is sales revenue coming from, and who's driving it?
-2. How well is the lead funnel converting, and where does it leak?
-3. Which marketing channels are actually worth the spend?
+The goal was to answer these business questions:
+
+1. Which product categories drive the most revenue?
+2. Which marketing channels convert leads best?
 
 # Dashboard
 <img width="1293" height="807" alt="image" src="https://github.com/user-attachments/assets/3b6eb2b0-4e11-41bc-a261-1dfbda9d95eb" />
@@ -16,23 +15,15 @@ The goal was to answer three questions:
 
 
 
-## Key Insights
- 
-**Sales**
-- $16.1M in delivered revenue across 2,645 orders, average order value $6,086.14
-- Delivered is 66.2% of all 2025 orders. Cancelled ($2.0M) and Returned ($1.4M) revenue is real leakage worth investigating
-- Philippines (23.4%) and USA (23.2%) lead revenue, nearly neck and neck. Canada remains the weakest market at 8.4%
-- Furniture ($8.4M) still dominates, more than double Electronics ($5.4M)
+# Key Insights
 
-**Customers**
-- 401 customers converted from leads in 2025
-- Within the year, Repeat buyers (446 customers, 2-4 orders) already outpace One-Time buyers on revenue per customer ($14,875 vs $5,988). Loyal status (5+ orders) is rare within a single year, only 11 customers hit it, so loyalty is best measured across multiple years, not one
+**1. Furniture and Electronics bring in most of the revenue**
+These two categories made up 86% of total revenue ($13.9M of $16.1M). This isn't because a certain type of customer buys them more, the customer mix was about the same as everywhere else. It's really because these items just cost more, so fewer sales add up to a lot more money.
 
-**Lead Funnel**
-- 5,185 leads generated in 2025, 7.73% conversion (401 converted)
-- LinkedIn remains the strongest source at 11.05% conversion, TikTok the weakest at 5.64%
-- Qualified (32.6%) and Lost (24.3%) are the two biggest non-converted buckets, most drop-off still happens after a lead is already vetted
+**2. LinkedIn gets the best conversion rate**
+LinkedIn turned leads into customers at the highest rate, 11.05%, ahead of every other channel like Referral, Google Ads, and TikTok. All channels brought in a similar number of leads, so this isn't luck. Part of the reason is likely LinkedIn's ability to target the right people (job title, company size), though that doesn't fully explain it since other channels have similar customers but don't convert as well.
 
-**Marketing ROI**
-- Ranking shifts within 2025: Influencer is cheapest per signup at $249, followed by Facebook Ads at $417
-- LinkedIn Ads is by far the most expensive in 2025 at $3,457 per signup, its worst showing of any channel
+# Recommendations
+
+- **Put more marketing budget into LinkedIn** since it converts best, and reconsider spending on lower performing channels like TikTok and Direct.
+- **Make sure Furniture and Electronics stay well stocked**, since they bring in most of the revenue and running out of stock there would hurt sales the most.
