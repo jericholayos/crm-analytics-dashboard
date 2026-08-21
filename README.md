@@ -10,8 +10,8 @@ The goal was to answer these business questions:
 2. Which marketing channels convert leads best?
 
 # Dashboard
-<img width="1293" height="807" alt="image" src="https://github.com/user-attachments/assets/3b6eb2b0-4e11-41bc-a261-1dfbda9d95eb" />
-<img width="1297" height="806" alt="image" src="https://github.com/user-attachments/assets/57ea1f47-9fc3-498e-9e74-444a8209bee7" />
+<img width="1296" height="805" alt="image" src="https://github.com/user-attachments/assets/22221968-f074-4b2d-b4f2-20d184822469" />
+<img width="1294" height="805" alt="image" src="https://github.com/user-attachments/assets/bda6a6b5-8bb8-45a9-979d-73ddb19f155f" />
 
 
 
