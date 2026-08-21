@@ -11,7 +11,7 @@ The goal was to answer these business questions:
 
 # Dashboard
 <img width="1296" height="805" alt="image" src="https://github.com/user-attachments/assets/22221968-f074-4b2d-b4f2-20d184822469" />
-<img width="1294" height="805" alt="image" src="https://github.com/user-attachments/assets/bda6a6b5-8bb8-45a9-979d-73ddb19f155f" />
+<img width="1295" height="808" alt="image" src="https://github.com/user-attachments/assets/33f65b78-28f7-4a0d-ace8-4a8fa4e67ff1" />
 
 
 
